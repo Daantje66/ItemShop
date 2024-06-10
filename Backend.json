@@ -2,50 +2,50 @@
     "//": "BR Item Shop Config",
     "daily1": {
         "itemGrants": [
-            "AthenaCharacter:CID_027_Athena_Commando_F"
+            "Glider_ID_097_Feathers"
         ],
-        "price": 1200
+        "price": 800
     },
     "daily2": {
         "itemGrants": [
-            "AthenaPickaxe:Pickaxe_ID_224_Butterfly"
+            "Pickaxe_ID_134_Snowman"
         ],
         "price": 500
     },
     "daily3": {
         "itemGrants": [
-            "AthenaDance:EID_KEagle"
+            "EID_MindBlown"
         ],
-        "price": 500
+        "price": 200
     },
     "daily4": {
         "itemGrants": [
-            "AthenaDance:EID_Everytime"
+            "EID_WalkieWalk"
         ],
-        "price": 700
+        "price": 500
     },
     "daily5": {
         "itemGrants": [
-            "AthenaCharacter:CID_356_Athena_Commando_F_Farmer"
+            "BID_350_TacticalBiker"
         ],
-        "price": 800
+        "price": 200
     },
     "daily6": {
         "itemGrants": [
-            "AthenaGlider:Glider_ID_118_Squishy"
+            "Wrap_027_Lucky"
         ],
         "price": 300
     },
     "featured1": {
         "itemGrants": [
-            "AthenaCharacter:CID_547_Athena_Commando_F_Meteorwoman"
+            "CID_748_Athena_Commando_F_Hitman"
         ],
-        "price": 2500
+        "price": 1200
     },
     "featured2": {
         "itemGrants": [
-            "AthenaCharacter:EID_LetsBegin_Beyond"
+            "CID_755_Athena_Commando_M_Splinter"
         ],
-        "price": 2000
+        "price": 1200
     }
 }
